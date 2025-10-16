@@ -3,7 +3,7 @@
 A Node.js/Express API that returns user data with dynamic cat facts from external APIs.
 
 ## 🚀 Live Demo
-- **API Endpoint:** `https://hng-stage-zero-backend-production.up.railway.app/me`
+- **API Endpoint:** `https://hng-stage-zero-backend.railway.internal`
 - **Health Check:** `https://hng-stage-zero-backend-production.up.railway.app/health`
 - **Root Endpoint:** `https://hng-stage-zero-backend-production.up.railway.app/`
 
